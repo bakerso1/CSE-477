@@ -1,0 +1,129 @@
+p {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+div.column {
+  position: relative;
+  padding: 0;
+  margin: 10px auto;
+  max-width: 500px;
+  min-width: 40%;
+}
+
+.box {
+  position: relative;
+  padding: 16px;
+  margin: 1em 0 0 0;
+  width: 100%;
+  box-sizing: border-box;
+  border: #ddd 1px solid;
+  border-top-color: #eee;
+  border-bottom-color: #bbb;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.15);
+}
+
+blockquote.twitter-tweet {
+  padding-left: 80px;
+  font: bold 14px/18px Helvetica, Arial, sans-serif;
+  color: #000;
+}
+
+blockquote.twitter-tweet cite {
+   font-style: normal;
+   font-weight: bold;
+}
+
+blockquote.twitter-tweet span.id {
+	font-weight: normal;
+	color: #657786;
+	font-size: 0.85em;
+}
+
+blockquote.twitter-tweet p {
+  font: normal 18px/24px Helvetica, Arial, sans-serif;
+  margin: 0;
+}
+
+blockquote.twitter-tweet a {
+	text-decoration: none;
+}
+
+
+blockquote.twitter-tweet a:visited {
+	color: black;	
+}
+
+blockquote.twitter-tweet a:hover {
+	color: #0a8f17;
+	text-decoration: underline;
+}
+
+
+
+blockquote.twitter-tweet figure {
+	position: absolute;
+	left: 5px;
+	top: 19px;
+	width: 48px;
+	height: 48px;
+	margin: 0 1em;
+	padding: 0;
+}
+
+form.respond p {
+	margin: 0.5em 0;
+	text-align: center;
+}
+
+form.compose fieldset {	
+	padding: 16px;
+}
+
+form.compose p img {
+	vertical-align: middle;
+}
+
+form.posted p {
+	margin: 1em 0;
+	text-align: center;
+}
+
+p.count {
+	text-align: right;
+	font-style: italic;
+	margin: 0.25em 0 0 0;
+}
+
+div.items p {
+	margin: 0.25em 0;
+}
+
+#manual {
+	width: 100%;
+}
+
+p.addmanual {
+	text-align: right;
+	margin-top: 0.5em;
+}
+
+h1 {
+	font-size: 1.2em;
+	font: normal 18px/24px Helvetica, Arial, sans-serif;
+	text-align: center;
+	border-bottom: thin solid black;
+}
+
+h2 {
+	font-size: 1.2em;
+	font: normal 18px/24px Helvetica, Arial, sans-serif;
+	text-align: center;
+	border-bottom: thin solid black;
+}
+
+p.post {
+	text-align: center;
+}

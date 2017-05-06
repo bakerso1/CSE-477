@@ -1,0 +1,88 @@
+body {
+    background-color: black;
+    background-position: center top;
+    background-repeat: no-repeat;
+    width: 700px;
+    margin: auto;
+   background-image: url("wumpus/cave-background.jpg");
+}
+
+h2 {
+    color: black;
+    font-size: 1.4em;
+    text-align: center;
+    padding: 0.3em;
+}
+
+h1 {
+    color: white;
+    background-color: #3f3622;
+    font-size: 4em;
+ padding-top: 0.3em;
+    padding-bottom: 0.3em;
+    text-align: center;
+    padding: 0.6em;
+   
+}
+
+a.link{
+color: white;
+}
+
+a.visited{
+color: white;
+}
+
+nav a{
+color: white;
+}
+
+nav {
+ padding: 0.3em;
+    padding-right: 0.7em;
+    text-align: right;
+    background-color: #3F3622;
+    color: white;
+    font-size: 0.9em;
+}
+
+figure img {
+
+    text-align: center;
+    border: solid black;
+    margin: 2em;
+    padding: 0.3em;
+}
+
+.wins {
+    text-align: center;
+}
+
+div {
+    background-color: white;
+    padding-bottom: 1.3em;
+}
+
+
+div.game {
+    padding-bottom: 0;
+}
+
+div.room {
+
+    width: 210px;
+    display: inline-block;
+    text-align: center;
+}
+
+div.rooms {
+    margin-left: 1.4em;
+    margin-right: 1.4em;
+}
+
+div.instructions p {
+    padding: 0.8em;
+}
+
+
+
